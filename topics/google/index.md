@@ -1,12 +1,12 @@
 ---
-display_name: Google
-github_url: https://github.com/google
-logo: google.png
-created_by: Larry Page, Sergey Brin
-released: September 4, 1998
-short_description: Google LLC is an American multinational technology company that specializes in Internet-related services and products.
+display_name: Woopdogg
+github_url: https://github.com/woopdoggydogg
+logo: woopdogg.png
+created_by: Romeo bobo-pyles 
+Born: feburary 28, 1993
+short_description: Woop Dogg is an American Idivisual Rapper that specializes in music related services and products.
 topic: google
-url: https://www.google.com
-wikipedia_url: https://en.wikipedia.org/wiki/Google
+url: https://website-woopdogg-musician.business.site/
+wikipedia_url: https://en.wikipedia.org/wiki/Woopdogg
 ---
-Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.
+woopdogg is a west coast Rap Artist who has lived in the city of Las Vegas Nevada as well as Compton California and been involved with the music industry for 20 years,  woopdogg is known for his music on soundcloud,  YouTube and Instagram Famous.  
